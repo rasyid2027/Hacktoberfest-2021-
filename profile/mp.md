@@ -28,4 +28,4 @@ Namamu
 
 ### Profile Link
 
-[Halimur Rasyid MP](https://github.com/rasyid2027)
+[Halimur Rasyid](https://github.com/rasyid2027)
